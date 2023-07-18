@@ -2,7 +2,7 @@
 
 <p>A third-party travel insurance servicing company that is based in Singapore.</p>
 
-![Travel Insurance Claim Form](https://th.bing.com/th/id/OIP.k8pBXZqBDqvq9ayn4yT11QHaE8?pid=ImgDet&rs=1)
+![Travel Insurance Claim Form](https://th.bing.com/th/id/OIP.k8pBXZqBDqvq9ayn4yT11QHaE8?pid=ImgDet&rs=1) <br><br><br>
 ![Travel Insurance Claims](https://th.bing.com/th/id/OIP.deJbNIY2_WnUd6TUjHS1DwHaEZ?pid=ImgDet&rs=1)
 
 The attributes are as follows:
